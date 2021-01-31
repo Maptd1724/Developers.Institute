@@ -1,0 +1,41 @@
+#container {
+    background-color: white;
+    margin-top: 100px;
+    
+}
+
+.wrapper {
+    background-color: white;
+    
+
+}
+
+#calcDisplay {
+    height: 90px;
+    border: solid 1px black;
+    border-radius: 10px;
+    font-size: 35px;
+    align-self: center;
+
+}
+
+
+.btn-clear {
+    background-color: rgb(22, 123, 238)
+
+}
+
+.btn-reset {
+    background-color: rgb(231, 89, 118);
+
+}
+
+.btn-symbol {
+    background-color: rgb(243, 200, 122);
+
+}
+
+.buttons {
+     background-color: rgb(132, 230, 132);
+     
+}
